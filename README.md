@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning React and .lua.
 - 🌱The programming languages that I'm used to working are C#, html and javascript
+- 👨‍💻Currently creating an app in javascript with react native
+
 
 <div align="center">
   <a href="https://github.com/Loureiro17">
