@@ -6,7 +6,8 @@
 - 👨‍💻Currently creating an app in javascript with react native
 
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Loureiro32&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loureiro32&layout=compact&theme=dark&hide_border=true" /></a> 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Loureiro32&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Loureiros's github stats" /></a> |
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loureiro32&layout=compact&theme=dark&hide_border=true" /></a> 
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Loureiro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
