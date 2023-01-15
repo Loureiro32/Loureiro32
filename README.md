@@ -10,11 +10,8 @@
 
 ## 📊 Stats
 
-[![](https://img.shields.io/github/followers/awayfromkane?style=for-the-badge)](https://github.com/Loureiro32)
-[![](https://komarev.com/ghpvc/?username=awayfromkane&color=blue&style=for-the-badge)](https://github.com/Loureiro32)
-[![](https://img.shields.io/youtube/channel/subscribers/UCaE1me_eiSmYH_A7HHJraVA?style=for-the-badge)](https://github.com/Loureiro32)
-[![](https://img.shields.io/youtube/channel/views/UCaE1me_eiSmYH_A7HHJraVA?style=for-the-badge)](https://github.com/Loureiro32)
-
+[![](https://img.shields.io/github/followers/Loureiro32?style=for-the-badge)](https://github.com/Loureiro32)
+[![](https://komarev.com/ghpvc/?username=Loureiro32&color=blue&style=for-the-badge)](https://github.com/Loureiro32)
 
 ## 🎧 Spotify
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31am2lthekdqoa4m4yzlzztr75yu&cover_image=true&theme=novatorem)](https://github.com/Loureiro32)
