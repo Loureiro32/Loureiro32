@@ -5,6 +5,7 @@
 ## 📊 Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/359769557637791746)](https://discord.com/users/359769557637791746)
 
+
 ## 💻 Languages & Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwayFromKane&layout=compact)](https://github.com/AwayFromKane)
