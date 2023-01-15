@@ -11,5 +11,5 @@
 
 ## 📊 Stats
 
-[![](https://img.shields.io/github/followers/Loureiro17?style=for-the-badge)](https://github.com/Loureiro17)
+[![](https://img.shields.io/github/followers/Loureiro32?style=for-the-badge)](https://github.com/Loureiro32)
 [![](https://komarev.com/ghpvc/?username=Loureiro32&color=blue&style=for-the-badge)](https://github.com/Loureiro32)
