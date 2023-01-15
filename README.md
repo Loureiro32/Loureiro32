@@ -17,4 +17,4 @@
 [![](https://komarev.com/ghpvc/?username=Loureiro32&color=blue&style=for-the-badge)](https://github.com/Loureiro32)
 
 ## 🎧 Spotify
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31am2lthekdqoa4m4yzlzztr75yu&cover_image=true&theme=novatorem)](https://github.com/Loureiro32)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=804lips307l2m3e6zr0bvz1k0&cover_image=true&theme=novatorem)](https://github.com/Loureiro32)
