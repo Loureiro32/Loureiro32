@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=Developer)](https://github.com/Loureiro32)
 
 ## 📊 Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/359769557637791746?theme=dark)](https://discord.com/users/359769557637791746)
+[![Discord Presence](https://lanyard.cnrad.dev/api/277782565719638016?theme=dark)](https://discord.com/users/277782565719638016)
 
 ## 💻 Languages & Skills
 
