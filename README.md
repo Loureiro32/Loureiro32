@@ -4,6 +4,8 @@
 
 ## 📊 Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/359769557637791746?theme=dark)](https://discord.com/users/359769557637791746)
+
+
 ## 💻 Languages & Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loureiro32&layout=compact)](https://github.com/Loureiro32)
 [![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,mysql,nginx,vscode&theme=dark)](https://github.com/Loureiro32)
