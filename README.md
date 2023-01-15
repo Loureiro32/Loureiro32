@@ -9,6 +9,7 @@
 ## 💻 Languages & Skills
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loureiro32&layout=compact&langs_count=7&theme=dracula"/>
+
 [![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,mysql,nginx,vscode&theme=dark)](https://github.com/Loureiro32)
 
 ## 📊 Stats
