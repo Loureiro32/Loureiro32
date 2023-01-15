@@ -13,8 +13,5 @@
 
 ## 📊 Stats
 
-[![](https://img.shields.io/github/followers/Loureiro32?style=for-the-badge)](https://github.com/Loureiro32)
+[![](https://img.shields.io/github/followers/Loureiro17?style=for-the-badge)](https://github.com/Loureiro17)
 [![](https://komarev.com/ghpvc/?username=Loureiro32&color=blue&style=for-the-badge)](https://github.com/Loureiro32)
-
-## 🎧 Spotify
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=804lips307l2m3e6zr0bvz1k0&cover_image=true&theme=novatorem)](https://github.com/Loureiro32)
