@@ -1,6 +1,7 @@
 ### Hi there my name is Hugo but everyone calls me Loureiro.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=WebDeveloper)](https://github.com/Loureiro32)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=Web)](https://github.com/Loureiro32)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=Developer)](https://github.com/Loureiro32)
 
 ## 📊 Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/359769557637791746)](https://discord.com/users/359769557637791746)
