@@ -8,7 +8,7 @@
 
 
 ## 💻 Languages & Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loureiro32&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loureiro32&theme=dark&langs_count=8)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loureiro32&theme=dark)](https://github.com/Loureiro32)<br>
 [![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,vscode,cs,php&theme=dark)](https://github.com/Loureiro32)
 
