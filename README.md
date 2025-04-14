@@ -6,7 +6,7 @@
 
 
 ## 💻 Languages & Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loureiro32&theme=dark&langs_count=5)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loureiro32&theme=dark&langs_count=5)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)<br>
 <div align="center">
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"></code>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring"></code>
