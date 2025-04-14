@@ -6,7 +6,7 @@
 
 
 ## 💻 Languages & Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loureiro32&theme=dark&langs_count=5)![Loureiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loureiro32&show_icons=true&theme=transparent)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loureiro32&theme=dark&langs_count=5)[![Loureiro's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Loureiro32&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Loureiro32/github-readme-stats#gh-dark-mode-only)<br>
 <div align="center">
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"></code>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring"></code>
